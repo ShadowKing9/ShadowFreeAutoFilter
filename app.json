@@ -1,23 +1,23 @@
 {
-    "name": "Auto Filter Bot V2",
+    "name": "😈𓆩Đēꝟīł Ħⱥȼҟēɍ𓆪 V2😈 Bot",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
+    "logo": "https://telegra.ph/file/d18e6138b32ea16a64656.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/AlbertEinsteinTG",
-    "repository": "https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "website": "https://github.com/rakeshyt",
+    "repository": "https://github.com/rakeshyt/DevilHacker2",
+    "success_url": "https://telegram.dog/YourRakeshHacker",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "7691464"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "8b90120161e4628088257361033f9b19"
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
