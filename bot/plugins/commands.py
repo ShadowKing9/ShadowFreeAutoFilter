@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/themoddinggod"
+                                    'Developers', url="https://t.me/ShadowKing9o"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/themoddinggod'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/rakeshyt/DevilHacker2')
+        InlineKeyboardButton('Developers', url='https://t.me/ShadowKing9o'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/ShadowKing9/ShadowFreeAutoFilter')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/YourRakeshHacker')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/ShadowKing9o')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
