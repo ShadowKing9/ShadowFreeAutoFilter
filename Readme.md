@@ -1,4 +1,4 @@
-# 😈𓆩Đēꝟīł Ħⱥȼҟēɍ𓆪😈 Bot V2
+# Shadow Auto Filter Bot V2
 
 <p align="center">
   <a href="https://github.com/rakeshyt/DevilHacker2/stargazers">
@@ -12,7 +12,7 @@
   </a>  
 </p>
 
-__This Is Just An Simple Advance 😈𓆩Đēꝟīł Ħⱥȼҟēɍ𓆪😈 Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/rakeshyt/DevilHacker2)..__
+__This Is Just An Simple Advance Shadow Free Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/rakeshyt/DevilHacker2)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
