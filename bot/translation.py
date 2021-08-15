@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @YourRakeshHacker
+# (c) @AlbertEinsteinTG @ShadowKing9o
 
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am 😈𓆩Đēꝟīł Ħⱥȼҟēɍ𓆪😈 Bot....😉
+<i>Am Shadow Free Auto Bot....😉
 
 Just Add Me To Your Group And Channel And Connect Them And See My Powers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@TheModdingGod
+@ShadowKing9o
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +43,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@TheModdingGod
+@ShadowKing9o
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> 😈𓆩Đēꝟīł Ħⱥȼҟēɍ𓆪😈 Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Shadow Free Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/YourRakeshHacker">Rakesh Devil Hacker</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/ShadowKing9o">ShadowKing</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/rakeshyt/DevilHacker2">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/ShadowKing9/ShadowFreeAutoFilter">Click Me</a></i>
 """
